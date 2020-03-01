@@ -75,6 +75,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HttpResponseException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WCFService.svc.cs">
       <DependentUpon>WCFService.svc</DependentUpon>
