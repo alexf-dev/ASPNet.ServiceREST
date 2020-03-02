@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ASPNet.ServiceREST.WCFService" CodeBehind="WCFService.svc.cs" %>
